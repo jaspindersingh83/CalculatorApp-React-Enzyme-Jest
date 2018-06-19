@@ -1,0 +1,565 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Buttons should render correctly as first 1`] = `
+ShallowWrapper {
+  "length": 1,
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <Buttons />,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "host",
+    "props": Object {
+      "children": Array [
+        <Button
+          handleInput={undefined}
+          item={7}
+/>,
+        <Button
+          handleInput={undefined}
+          item={8}
+/>,
+        <Button
+          handleInput={undefined}
+          item={9}
+/>,
+        <Button
+          handleInput={undefined}
+          item="-"
+/>,
+        <Button
+          handleInput={undefined}
+          item={4}
+/>,
+        <Button
+          handleInput={undefined}
+          item={5}
+/>,
+        <Button
+          handleInput={undefined}
+          item={6}
+/>,
+        <Button
+          handleInput={undefined}
+          item="+"
+/>,
+        <Button
+          handleInput={undefined}
+          item={1}
+/>,
+        <Button
+          handleInput={undefined}
+          item={2}
+/>,
+        <Button
+          handleInput={undefined}
+          item={3}
+/>,
+        <Button
+          handleInput={undefined}
+          item=" "
+/>,
+        <Button
+          handleInput={undefined}
+          item="*"
+/>,
+        <Button
+          handleInput={undefined}
+          item={0}
+/>,
+        <Button
+          handleInput={undefined}
+          item="/"
+/>,
+        <Button
+          handleInput={undefined}
+          item="="
+/>,
+      ],
+      "className": "Holder",
+    },
+    "ref": null,
+    "rendered": Array [
+      Object {
+        "instance": null,
+        "key": "0",
+        "nodeType": "class",
+        "props": Object {
+          "handleInput": undefined,
+          "item": 7,
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "1",
+        "nodeType": "class",
+        "props": Object {
+          "handleInput": undefined,
+          "item": 8,
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "2",
+        "nodeType": "class",
+        "props": Object {
+          "handleInput": undefined,
+          "item": 9,
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "3",
+        "nodeType": "class",
+        "props": Object {
+          "handleInput": undefined,
+          "item": "-",
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "4",
+        "nodeType": "class",
+        "props": Object {
+          "handleInput": undefined,
+          "item": 4,
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "5",
+        "nodeType": "class",
+        "props": Object {
+          "handleInput": undefined,
+          "item": 5,
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "6",
+        "nodeType": "class",
+        "props": Object {
+          "handleInput": undefined,
+          "item": 6,
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "7",
+        "nodeType": "class",
+        "props": Object {
+          "handleInput": undefined,
+          "item": "+",
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "8",
+        "nodeType": "class",
+        "props": Object {
+          "handleInput": undefined,
+          "item": 1,
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "9",
+        "nodeType": "class",
+        "props": Object {
+          "handleInput": undefined,
+          "item": 2,
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "10",
+        "nodeType": "class",
+        "props": Object {
+          "handleInput": undefined,
+          "item": 3,
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "11",
+        "nodeType": "class",
+        "props": Object {
+          "handleInput": undefined,
+          "item": " ",
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "12",
+        "nodeType": "class",
+        "props": Object {
+          "handleInput": undefined,
+          "item": "*",
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "13",
+        "nodeType": "class",
+        "props": Object {
+          "handleInput": undefined,
+          "item": 0,
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "14",
+        "nodeType": "class",
+        "props": Object {
+          "handleInput": undefined,
+          "item": "/",
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": "15",
+        "nodeType": "class",
+        "props": Object {
+          "handleInput": undefined,
+          "item": "=",
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+    ],
+    "type": "div",
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "host",
+      "props": Object {
+        "children": Array [
+          <Button
+            handleInput={undefined}
+            item={7}
+/>,
+          <Button
+            handleInput={undefined}
+            item={8}
+/>,
+          <Button
+            handleInput={undefined}
+            item={9}
+/>,
+          <Button
+            handleInput={undefined}
+            item="-"
+/>,
+          <Button
+            handleInput={undefined}
+            item={4}
+/>,
+          <Button
+            handleInput={undefined}
+            item={5}
+/>,
+          <Button
+            handleInput={undefined}
+            item={6}
+/>,
+          <Button
+            handleInput={undefined}
+            item="+"
+/>,
+          <Button
+            handleInput={undefined}
+            item={1}
+/>,
+          <Button
+            handleInput={undefined}
+            item={2}
+/>,
+          <Button
+            handleInput={undefined}
+            item={3}
+/>,
+          <Button
+            handleInput={undefined}
+            item=" "
+/>,
+          <Button
+            handleInput={undefined}
+            item="*"
+/>,
+          <Button
+            handleInput={undefined}
+            item={0}
+/>,
+          <Button
+            handleInput={undefined}
+            item="/"
+/>,
+          <Button
+            handleInput={undefined}
+            item="="
+/>,
+        ],
+        "className": "Holder",
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": "0",
+          "nodeType": "class",
+          "props": Object {
+            "handleInput": undefined,
+            "item": 7,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "1",
+          "nodeType": "class",
+          "props": Object {
+            "handleInput": undefined,
+            "item": 8,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "2",
+          "nodeType": "class",
+          "props": Object {
+            "handleInput": undefined,
+            "item": 9,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "3",
+          "nodeType": "class",
+          "props": Object {
+            "handleInput": undefined,
+            "item": "-",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "4",
+          "nodeType": "class",
+          "props": Object {
+            "handleInput": undefined,
+            "item": 4,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "5",
+          "nodeType": "class",
+          "props": Object {
+            "handleInput": undefined,
+            "item": 5,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "6",
+          "nodeType": "class",
+          "props": Object {
+            "handleInput": undefined,
+            "item": 6,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "7",
+          "nodeType": "class",
+          "props": Object {
+            "handleInput": undefined,
+            "item": "+",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "8",
+          "nodeType": "class",
+          "props": Object {
+            "handleInput": undefined,
+            "item": 1,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "9",
+          "nodeType": "class",
+          "props": Object {
+            "handleInput": undefined,
+            "item": 2,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "10",
+          "nodeType": "class",
+          "props": Object {
+            "handleInput": undefined,
+            "item": 3,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "11",
+          "nodeType": "class",
+          "props": Object {
+            "handleInput": undefined,
+            "item": " ",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "12",
+          "nodeType": "class",
+          "props": Object {
+            "handleInput": undefined,
+            "item": "*",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "13",
+          "nodeType": "class",
+          "props": Object {
+            "handleInput": undefined,
+            "item": 0,
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "14",
+          "nodeType": "class",
+          "props": Object {
+            "handleInput": undefined,
+            "item": "/",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "15",
+          "nodeType": "class",
+          "props": Object {
+            "handleInput": undefined,
+            "item": "=",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+      ],
+      "type": "div",
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+      },
+    },
+  },
+}
+`;
